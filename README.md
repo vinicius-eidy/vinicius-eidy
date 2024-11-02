@@ -26,8 +26,8 @@
 ## 👾&nbsp; GitHub Analytics
 
 <p align="center">
-<img width="440em" src="https://github-readme-stats.vercel.app/api?username=eidynho&show_icons=true&theme=tokyonight" alt="eidynho's stats"/>
-<img width="334em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eidynho&layout=compact&theme=tokyonight" alt="eidynho's most-used-languages"/>
+<img width="440em" src="https://github-readme-stats.vercel.app/api?username=vinicius-eidy&show_icons=true&theme=tokyonight" alt="Vinicius Eidy's stats"/>
+<img width="334em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-eidy&layout=compact&theme=tokyonight" alt="Vinicius Eidy's most-used-languages"/>
 </p>
 
 <br>
